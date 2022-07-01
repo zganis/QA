@@ -1,0 +1,14 @@
+<book>
+    <name>Мастер и Маргорита</name>
+    <author>Булгаков Михаил</author>
+    <style>Роман</style>
+    <publishingHouse>YMCA-Press</publishingHouse>
+    <yearPublication>1966</yearPublication>
+    <locationInLibrary>
+        <hall>3</hall>
+        <shelving>6A</shelving>
+        <shelf>2</shelf>
+        <row>13</row>
+    </locationInLibrary>
+    <id>1167974</id>
+</book>

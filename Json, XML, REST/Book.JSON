@@ -1,0 +1,16 @@
+{
+  "book": {
+    "name": "Мастер и Маргорита",
+    "author": "Булгаков Михаил",
+    "style": "Роман",
+    "publishingHouse": "YMCA-Press",
+    "yearPublication": "1966",
+    "locationInLibrary": {
+      "hall": "3",
+      "shelving": "6A",
+      "shelf": "2",
+      "row": "13"
+    },
+    "id": "1167974"
+  }
+}
